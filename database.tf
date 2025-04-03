@@ -4,3 +4,4 @@ resource "aws_db_subnet_group" "db" {
 }
 
 database.tf
+Hi THis is Ranjitha
